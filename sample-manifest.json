@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bce26ce8-7e49-480c-bf76-102c9bf57901",
+  "export_job_id": "f267b656-70d4-4d04-8890-5af8ffaa6c4b",
   "id_short": 961290,
-  "published_at": "2026-04-23T07:29:59Z",
+  "published_at": "2026-04-29T19:52:17Z",
   "repo_name": "tech-ready-restaurants-in-west-virginia-us-sample-961290",
   "sample_asset_name": "beamstation_961290_restaurants-us-wv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/961290/beamstation_961290_restaurants-us-wv_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "e63a1d183045c5bbe2c220e0ff192a71850c5ed394bdbf12c268bde414c5c9a8",
-  "sample_size_bytes": 19995,
-  "total_records": 2
+  "sample_sha256": "e39658922da7fd8acae8f84e0f3e96685edddc3ce889eef0c09463242f74bc67",
+  "sample_size_bytes": 20020,
+  "total_records": 5
 }
