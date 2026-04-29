@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in West Virginia, US",
-  "export_job_id": "bce26ce8-7e49-480c-bf76-102c9bf57901",
+  "export_job_id": "f267b656-70d4-4d04-8890-5af8ffaa6c4b",
   "github_org": "Beamstation-Datasets",
   "id_short": 961290,
   "location_name": "West Virginia",
   "location_type": "state",
   "repo_name": "tech-ready-restaurants-in-west-virginia-us-sample-961290",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/961290/beamstation_961290_restaurants-us-wv_SAMPLE_DIST.csv",
-  "sample_pct": 50.0,
+  "sample_pct": 20.0,
   "sample_records": 1,
-  "sample_sha256": "e63a1d183045c5bbe2c220e0ff192a71850c5ed394bdbf12c268bde414c5c9a8",
-  "sample_size_bytes": 19995,
-  "total_records": 2,
-  "updated_at": "2026-04-22T15:54:11.480920+00:00"
+  "sample_sha256": "e39658922da7fd8acae8f84e0f3e96685edddc3ce889eef0c09463242f74bc67",
+  "sample_size_bytes": 20020,
+  "total_records": 5,
+  "updated_at": "2026-04-29T15:58:32.158761+00:00"
 }
